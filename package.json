@@ -2,7 +2,7 @@
   "name": "calculadora",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://HollSann.github.io/Calculadora-React",
+  "homepage": "https://hollsann.github.io/Calculadora-React",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
